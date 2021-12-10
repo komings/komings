@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @komings
+- 👀 I’m interested in use programme in work.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some practical case use python.
